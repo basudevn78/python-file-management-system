@@ -47,5 +47,5 @@ No external dependencies required!
 
 1. **Clone the repository**  
    ```bash
-   git clone https://basudevn78/file-management-system-python.git
-   cd file-management-system-python
+   git clone https://github.com/basudevn78/python-file-management-system.git
+   cd python-file-management-system
